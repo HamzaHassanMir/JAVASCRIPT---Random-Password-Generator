@@ -40,5 +40,7 @@ Clipboard API: Allows copying passwords with one click.
 User Input Handling: Reads selected options (length, character types).
 
 👨‍💻 Author
+
 Hamza
+
 Frontend Developer
