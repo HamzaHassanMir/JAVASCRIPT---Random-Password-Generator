@@ -26,8 +26,9 @@ JavaScript (ES6) – Password generation logic and DOM manipulation
    ```bash
    cd <repository-name>
    ```
-3.Open index.html in your browser
-4.click Generate Password
+3. Open index.html in your browser
+
+4. click Generate Password
 
 🧠 Code Overview
 The core logic is handled in script.js and focuses on generating secure random passwords.
